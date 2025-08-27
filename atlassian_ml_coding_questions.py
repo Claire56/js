@@ -1,10 +1,4 @@
-"""
-Atlassian Machine Learning Systems Engineer Coding Questions & Solutions
-======================================================================
 
-This file contains typical coding questions you might encounter in Atlassian ML interviews,
-along with optimal solutions and explanations.
-"""
 
 import pandas as pd
 import numpy as np
